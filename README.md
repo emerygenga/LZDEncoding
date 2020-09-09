@@ -1,1 +1,1 @@
-# LZDEncoding
+# LZWEncoding
